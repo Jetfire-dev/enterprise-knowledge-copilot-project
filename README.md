@@ -55,6 +55,22 @@ No Live Updates-
 **It won’t reflect any data released after the report’s publication date.**
 
 
+## Extension of AI Agent Project 
+
+If you’d like to experiment with new or additional documents, simply:
+
+1- Place your new PDF(s) in data/raw/ (e.g. data/raw/another_report.pdf).
+
+2- Re‑run the chunking & indexing step:
+
+   python scripts/chunk_and_index.py
+
+   This will ingest all PDFs in data/raw/ at once.
+
+3- Restart the Streamlit app to query over the expanded knowledge base:
+
+   streamlit run app.py
+
 
 ## Source
 
