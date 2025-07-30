@@ -45,3 +45,11 @@ This project is an LLM-powered Q&A agent that answers user questions from the RB
 Create a .env file in the project root:
 
    OPENAI_API_KEY= your_api_key
+
+
+
+
+
+**Source**
+The RBI Annual Report 2023–24 used in this project is publicly available from the Reserve Bank of India’s official website:
+https://www.rbi.org.in → Publications → Annual Reports
