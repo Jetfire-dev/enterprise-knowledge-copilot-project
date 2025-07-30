@@ -46,7 +46,13 @@ Create a .env file in the project root:
 
    OPENAI_API_KEY= your_api_key
 
+## Limitations
 
+Single Source knowledge-
+**This AI agent only knows what’s in the RBI Annual Report 2023–24 PDF.**
+
+No Live Updates- 
+**It won’t reflect any data released after the report’s publication date.**
 
 
 
