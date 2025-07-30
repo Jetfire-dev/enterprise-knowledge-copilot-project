@@ -1,7 +1,5 @@
 # Enterprise Knowledge Copilot: RBI Annual Report 2023–24 Q&A Bot
 
-
-
 ## Project Overview
 
 This project is an LLM-powered Q&A agent that answers user questions from the RBI Annual Report 2023–24 using semantic search and OpenAI. Designed as a prototype for enterprise knowledge assistants.
