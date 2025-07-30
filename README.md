@@ -21,21 +21,22 @@ This project is an LLM-powered Q&A agent that answers user questions from the RB
 3. **Create and activate a virtual environment**
 
    python -m venv venv
+   
    source venv/bin/activate
 
-4. **Install dependencies**
+5. **Install dependencies**
 
    pip install -r requirements.txt
 
-5. **Place the RBI PDF in the raw data folder**
+6. **Place the RBI PDF in the raw data folder**
 
    data/raw/rbi_annual_report_2023_24.pdf
 
-6. **Run chunking & indexing**
+7. **Run chunking & indexing**
 
    python scripts/chunk_and_index.py
 
-7. **Start the Streamlit app**
+8. **Start the Streamlit app**
 
    streamlit run app.py
 
