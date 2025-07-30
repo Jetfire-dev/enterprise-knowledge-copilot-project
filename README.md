@@ -1,4 +1,4 @@
-# RBI Annual Report Q&A chatbot
+# Enterprise Knowledge Copilot: RBI Annual Report 2023–24 Q&A Bot
 
 A local chatbot app that answers questions from the **RBI Annual Report 2023–24**, using PDF chunking, vector embeddings, and OpenAI LLMs — all in a lightweight Streamlit interface.
 
