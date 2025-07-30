@@ -56,5 +56,5 @@ The RBI Annual Report 2023–24 used in this project is publicly available from 
 https://www.rbi.org.in → Publications → Annual Reports
 
 
-## Disclaimer:
+## Disclaimer
 This project is for educational and demonstration purposes only. All content from the RBI Annual Report 2023–24 remains the property of the Reserve Bank of India. No commercial use is intended.
