@@ -59,15 +59,15 @@ No Live Updates-
 
 If you’d like to experiment with new or additional documents, simply:
 
-1- Place your new PDF(s) in data/raw/ location (e.g. data/raw/another_report.pdf).
+1- **Place your new PDF(s) in data/raw/ location (e.g. data/raw/another_report.pdf).**
 
-2- Re‑run the chunking & indexing step:
+2- **Re‑run the chunking & indexing step:**
 
    python scripts/chunk_and_index.py
 
    This will ingest all PDFs in data/raw/ at once.
 
-3- Restart the Streamlit app to query over the expanded knowledge base:
+3- **Restart the Streamlit app to query over the expanded knowledge base:**
 
    streamlit run app.py
 
