@@ -59,7 +59,7 @@ No Live Updates-
 
 If you’d like to experiment with new or additional documents, simply:
 
-1- Place your new PDF(s) in data/raw/ (e.g. data/raw/another_report.pdf).
+1- Place your new PDF(s) in data/raw/ location (e.g. data/raw/another_report.pdf).
 
 2- Re‑run the chunking & indexing step:
 
